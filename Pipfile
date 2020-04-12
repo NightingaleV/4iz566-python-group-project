@@ -6,14 +6,6 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-pandas = "*"
-seaborn = "*"
-jupyter = "*"
-pexpect = "*"
-sklearn = "*"
-keras = "*"
-tensorflow = "*"
-python-varname = "*"
 
 [requires]
 python_version = "3.7"
